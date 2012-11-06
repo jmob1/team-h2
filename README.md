@@ -1,4 +1,4 @@
 team-h2
 =======
 
-* this is is, yeah
+* this is it yeah
